@@ -1,0 +1,74 @@
+
+.header-menu-link {
+   color: red;
+}
+.menu-nba-link {
+   color: seagreen;
+}
+#blue {
+   color: blue;
+}
+h1 {
+   color: coral;
+}
+#key-stats {
+   color: violet;
+}
+.about-author a {
+   color: cadetblue;
+}
+.about-author .author-twitter {
+   color: blue;
+}
+p {
+   color: hotpink;
+}
+.main-intro p {
+   color: darkgray;
+}
+[title="Kings"] {
+   color: greenyellow;
+}
+[class*="-atribut"] {
+   color: indigo;
+}
+h2 {
+   color: darkgreen;
+}
+h2 a {
+   color: darkorange;
+}
+.main-intro .italic {
+   color: darkred;
+}
+.season-stats > p {
+   color: darksalmon;
+}
+.next + p {
+   color: firebrick;
+}
+.next1 ~ p {
+   color: goldenrod;
+}
+h4 span {
+   color: burlywood;
+}
+
+.jordan {
+   color: red;
+}
+.lebron {
+   color: tomato;
+}
+.per-game.total {
+   color: royalblue;
+}
+div p {
+   color: hotpink;
+}
+.latest-news a {
+   color: khaki;
+}
+a {
+   color: black;
+}
